@@ -1,7 +1,9 @@
 # Based on Paper:
 
 Subtitle?: MACHINE LEARNING
+
 Title: Clustering by fast search and find of density peaks
+
 Authors: Alex Rodriguez and Alessandro Laio
 
 # Data
