@@ -12,8 +12,8 @@ for i in r:
     x.append(float(i[0]))
     y.append(float(i[1]))
 
-x1=x[:10]
-y1=y[:10]
+x1=x[:11]
+y1=y[:11]
 x2=x[11:]
 y2=y[11:]
 
@@ -38,8 +38,8 @@ x1=x[:9]
 y1=y[:9]
 x2=x[11:]
 y2=y[11:]
-x3=x[10:11]
-y3=x[10:11]
+x3=x[9:11]
+y3=x[9:11]
 
 p1=plot.subplot(111)
 p1.scatter(x1,y1,color='b')
